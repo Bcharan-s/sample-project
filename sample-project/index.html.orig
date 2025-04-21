@@ -4,7 +4,11 @@
 <head>
 <<<<<<< HEAD
      <title>HTML Application for feature branch</title>
-|||||||
+||||||| ea9eb06
+     <title>HTML Application for Testing</title>
+=======
+     <title>HTML Application for feature2 branch</title>
+>>>>>>> feature2
 	 <link href="css/site.css" rel="stylesheet">
 </head>
 
